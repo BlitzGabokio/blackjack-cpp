@@ -21,3 +21,7 @@ El juego debe permitir al jugador humano ver las cartas que tiene en su mano y e
 El juego debe permitir al jugador humano ver las cartas que tiene la computadora y el puntaje total de las cartas.
 
 El juego debe permitir al jugador humano ver el resultado de la ronda (ganó, perdió o empató).
+
+Integrantes: 
+Gabriel Armando Mondragon Reyes 
+Victor Manuel Loperena Guerrero Riquelme
